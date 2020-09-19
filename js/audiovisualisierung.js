@@ -41,7 +41,7 @@ function playSample() {
 
 	request.onload = function() {
 		
-		$("#title").html("XLife");
+		$("#title").html("UCRP");
 		onWindowResize();
 		$("#title, #artist, #album").css("visibility", "visible");
 		
